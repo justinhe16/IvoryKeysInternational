@@ -9,7 +9,7 @@ body {
 }
 
 hr {
-    max-width: 50px;
+    max-width: 13em;
     border-color: #AE1800;
     border-width: 3px;
 }
